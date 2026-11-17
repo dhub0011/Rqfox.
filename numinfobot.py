@@ -49,13 +49,13 @@ from psycopg2 import pool
 # ═══════════════════════════════════════════════════
 #  CONFIG
 # ═══════════════════════════════════════════════════
-BOT_TOKEN        = "8961805874:AAFmSPv8MyqQVB7xVqA3PRi3mCi-dQouZWY"
-CHANNEL_USERNAME = "@KINGxSPAM"
+BOT_TOKEN        = "9033173393:AAGklplWZcMXgCwHqEZIxpvKXekHmBmJgnM-dQouZWY"
+CHANNEL_USERNAME = "@rqfox"
 
 # ─── DOUBLE ADMIN SYSTEM ───
 ADMIN_IDS = [
-    6026998790,   # 👑 ᴀᴅᴍɪɴ 1
-    1234567890,   # 👑 ᴀᴅᴍɪɴ 2  ← ʀᴇᴘʟᴀᴄᴇ ᴡɪᴛʜ ᴀᴄᴛᴜᴀʟ ɪᴅ
+    8362820771,   # 👑 ᴀᴅᴍɪɴ 1
+    8362820771,   # 👑 ᴀᴅᴍɪɴ 2  ← ʀᴇᴘʟᴀᴄᴇ ᴡɪᴛʜ ᴀᴄᴛᴜᴀʟ ɪᴅ
 ]
 
 # ─── SUPABASE ───
@@ -65,7 +65,7 @@ SUPABASE_DB_URL = "postgresql://postgres:ishaaq78600@db.canaorxzjqswolqqexvx.sup
 API_NUM     = "https://vtrosint.dpdns.org/?key=vtr_draxion&mobile={num}"
 API_AADHAAR = "https://vtrosint.dpdns.org/api/search/aadhaar?id={aadhar_id}&key=vtr_draxion"
 
-OWNER_TEXT = "👑 <b>ᴏᴡɴᴇʀ :</b> @KINGxISHAAQ"
+OWNER_TEXT = "👑 <b>ᴏᴡɴᴇʀ :</b> @rqfox"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
